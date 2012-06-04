@@ -1,0 +1,1 @@
+{"provides":{"Net::HTTP":{"version":"6.03","file":"Net/HTTP.pm"},"Net::HTTPS":{"version":"6.02","file":"Net/HTTPS.pm"},"Net::HTTP::NB":{"version":"6.00","file":"Net/HTTP/NB.pm"},"Net::HTTP::Methods":{"version":"6.00","file":"Net/HTTP/Methods.pm"}},"target":"Net::HTTP","version":"6.03","name":"Net::HTTP","dist":"Net-HTTP-6.03","pathname":"G/GA/GAAS/Net-HTTP-6.03.tar.gz"}

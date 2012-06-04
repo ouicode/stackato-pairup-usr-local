@@ -1,0 +1,6 @@
+/usr/local/bin/scandeps.pl
+/usr/local/man/man1/scandeps.pl.1p
+/usr/local/man/man3/Module::ScanDeps.3pm
+/usr/local/share/perl/5.10.1/Module/ScanDeps.pm
+/usr/local/share/perl/5.10.1/Module/ScanDeps/Cache.pm
+/usr/local/share/perl/5.10.1/Module/ScanDeps/DataFeed.pm

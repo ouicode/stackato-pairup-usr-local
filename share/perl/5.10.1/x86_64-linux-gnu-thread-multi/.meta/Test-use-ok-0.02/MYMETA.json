@@ -1,0 +1,36 @@
+{
+   "abstract" : "Alternative to Test::More::use_ok",
+   "author" : [
+      ", 2006 by Audrey Tang <cpan@audreyt.org>."
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.64, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-use-ok",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Test::More" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.02"
+}

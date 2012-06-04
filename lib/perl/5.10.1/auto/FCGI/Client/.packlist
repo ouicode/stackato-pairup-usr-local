@@ -1,0 +1,12 @@
+/usr/local/man/man3/FCGI::Client.3pm
+/usr/local/man/man3/FCGI::Client::Connection.3pm
+/usr/local/man/man3/FCGI::Client::Constant.3pm
+/usr/local/man/man3/FCGI::Client::Record.3pm
+/usr/local/man/man3/FCGI::Client::RecordFactory.3pm
+/usr/local/man/man3/FCGI::Client::RecordHeader.3pm
+/usr/local/share/perl/5.10.1/FCGI/Client.pm
+/usr/local/share/perl/5.10.1/FCGI/Client/Connection.pm
+/usr/local/share/perl/5.10.1/FCGI/Client/Constant.pm
+/usr/local/share/perl/5.10.1/FCGI/Client/Record.pm
+/usr/local/share/perl/5.10.1/FCGI/Client/RecordFactory.pm
+/usr/local/share/perl/5.10.1/FCGI/Client/RecordHeader.pm

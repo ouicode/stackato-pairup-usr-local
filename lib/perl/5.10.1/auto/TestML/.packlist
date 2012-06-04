@@ -1,0 +1,17 @@
+/usr/local/man/man3/Module::Install::TestML.3pm
+/usr/local/man/man3/TestML.3pm
+/usr/local/man/man3/TestML::Mo.3pm
+/usr/local/man/man3/TestML::Setup.3pm
+/usr/local/share/perl/5.10.1/Module/Install/TestML.pm
+/usr/local/share/perl/5.10.1/TestML.pm
+/usr/local/share/perl/5.10.1/TestML.pod
+/usr/local/share/perl/5.10.1/TestML/AST.pm
+/usr/local/share/perl/5.10.1/TestML/Compiler.pm
+/usr/local/share/perl/5.10.1/TestML/Grammar.pm
+/usr/local/share/perl/5.10.1/TestML/Library/Debug.pm
+/usr/local/share/perl/5.10.1/TestML/Library/Standard.pm
+/usr/local/share/perl/5.10.1/TestML/Mo.pm
+/usr/local/share/perl/5.10.1/TestML/Mo.pod
+/usr/local/share/perl/5.10.1/TestML/Runtime.pm
+/usr/local/share/perl/5.10.1/TestML/Runtime/TAP.pm
+/usr/local/share/perl/5.10.1/TestML/Setup.pm

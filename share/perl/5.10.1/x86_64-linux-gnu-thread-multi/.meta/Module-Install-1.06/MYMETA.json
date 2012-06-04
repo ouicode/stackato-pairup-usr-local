@@ -1,0 +1,70 @@
+{
+   "abstract" : "Standalone, extensible Perl module installer",
+   "author" : [
+      "Adam Kennedy <adamk@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Module-Install",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36",
+            "Test::Harness" : "3.13",
+            "Test::More" : "0.86",
+            "YAML::Tiny" : "1.33"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36",
+            "YAML::Tiny" : "1.33"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Archive::Tar" : "1.44",
+            "Devel::PPPort" : "3.16",
+            "ExtUtils::Install" : "1.52",
+            "ExtUtils::MakeMaker" : "6.59",
+            "ExtUtils::ParseXS" : "2.19",
+            "File::Remove" : "1.42",
+            "File::Spec" : "3.28",
+            "JSON" : "2.14",
+            "LWP::UserAgent" : "5.812",
+            "Module::Build" : "0.29",
+            "Module::CoreList" : "2.17",
+            "Module::ScanDeps" : "0.89",
+            "PAR::Dist" : "0.29",
+            "Parse::CPAN::Meta" : "1.39",
+            "YAML::Tiny" : "1.38",
+            "perl" : "5.005"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://svn.ali.as/cpan/trunk/Module-Install"
+      },
+      "x_ChangeLog" : "http://fisheye2.atlassian.com/changelog/cpan/trunk/Module-Install"
+   },
+   "version" : "1.06"
+}

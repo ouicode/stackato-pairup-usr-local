@@ -1,0 +1,1 @@
+{"provides":{"Module::ScanDeps::Cache":{"file":"Module/ScanDeps/Cache.pm"},"Module::ScanDeps":{"version":"1.08","file":"Module/ScanDeps.pm"},"Module::ScanDeps::DataFeed":{"file":"Module/ScanDeps/DataFeed.pm"}},"target":"Module::ScanDeps","version":"1.08","name":"Module::ScanDeps","dist":"Module-ScanDeps-1.08","pathname":"R/RS/RSCHUPP/Module-ScanDeps-1.08.tar.gz"}

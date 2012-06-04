@@ -1,0 +1,4 @@
+/usr/local/bin/cpan-upload
+/usr/local/man/man1/cpan-upload.1p
+/usr/local/man/man3/CPAN::Uploader.3pm
+/usr/local/share/perl/5.10.1/CPAN/Uploader.pm

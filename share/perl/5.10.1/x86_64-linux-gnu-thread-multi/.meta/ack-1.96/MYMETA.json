@@ -1,0 +1,59 @@
+{
+   "abstract" : "A grep-like program specifically for large source trees",
+   "author" : [
+      "Andy Lester <andy@petdance.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.56, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "artistic_2"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "ack",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "File::Basename" : "0",
+            "File::Next" : "0.4",
+            "Getopt::Long" : "0",
+            "Pod::Usage" : "0",
+            "Term::ANSIColor" : "0",
+            "Test::Harness" : "2.5",
+            "Test::More" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://github.com/petdance/ack"
+      },
+      "homepage" : "http://betterthangrep.com/",
+      "license" : [
+         "http://www.opensource.org/licenses/artistic-license-2.0.php"
+      ],
+      "repository" : {
+         "url" : "git://github.com/petdance/ack.git"
+      }
+   },
+   "version" : "1.96"
+}

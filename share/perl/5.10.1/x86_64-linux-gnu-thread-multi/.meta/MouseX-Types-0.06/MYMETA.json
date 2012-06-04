@@ -1,0 +1,55 @@
+{
+   "abstract" : "Organize your Mouse types in libraries",
+   "author" : [
+      "Kazuhiro Osawa <yappo <at> shibuya <döt> pl>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.02, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MouseX-Types",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Scalar::Util" : "0",
+            "Test::Exception" : "0",
+            "Test::More" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Any::Moose" : "0.15",
+            "Mouse" : "0.77",
+            "perl" : "5.006002"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/yappo/p5-mousex-types.git"
+      }
+   },
+   "version" : "0.06"
+}

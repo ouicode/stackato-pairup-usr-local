@@ -1,0 +1,8 @@
+/usr/local/bin/starman
+/usr/local/man/man1/starman.1p
+/usr/local/man/man3/Plack::Handler::Starman.3pm
+/usr/local/man/man3/Starman.3pm
+/usr/local/share/perl/5.10.1/HTTP/Server/PSGI/Net/Server/PreFork.pm
+/usr/local/share/perl/5.10.1/Plack/Handler/Starman.pm
+/usr/local/share/perl/5.10.1/Starman.pm
+/usr/local/share/perl/5.10.1/Starman/Server.pm

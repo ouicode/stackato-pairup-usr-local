@@ -1,0 +1,8 @@
+/usr/local/bin/corona
+/usr/local/man/man1/corona.1p
+/usr/local/man/man3/Corona.3pm
+/usr/local/man/man3/Plack::Handler::Corona.3pm
+/usr/local/share/perl/5.10.1/Corona.pm
+/usr/local/share/perl/5.10.1/Corona/Server.pm
+/usr/local/share/perl/5.10.1/Plack/Handler/Corona.pm
+/usr/local/share/perl/5.10.1/Plack/Server/Coro.pm

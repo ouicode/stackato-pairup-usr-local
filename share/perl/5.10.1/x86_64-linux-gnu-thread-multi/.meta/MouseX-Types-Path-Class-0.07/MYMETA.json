@@ -1,0 +1,58 @@
+{
+   "abstract" : "A Path::Class type library for Mouse",
+   "author" : [
+      "NAKAGAWA Masaki <masaki@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MouseX-Types-Path-Class",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "Test::More" : "0.94",
+            "Test::UseAllModules" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "MouseX::Getopt" : "0.2200"
+         },
+         "requires" : {
+            "Mouse" : "0.39",
+            "MouseX::Types" : "0.02",
+            "Path::Class" : "0",
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/masaki/mousex-types-path-class.git"
+      }
+   },
+   "version" : "0.07"
+}

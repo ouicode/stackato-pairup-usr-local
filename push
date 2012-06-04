@@ -1,0 +1,5 @@
+#!/bin/bash -xe
+sudo chown $USER.$USER -R .
+git add .
+git commit -m "${@:-Updates.}"
+git push

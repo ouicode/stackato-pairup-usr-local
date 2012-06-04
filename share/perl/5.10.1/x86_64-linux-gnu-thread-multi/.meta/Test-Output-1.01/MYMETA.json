@@ -1,0 +1,55 @@
+{
+   "abstract" : "Utilities to test STDOUT and STDERR messages.",
+   "author" : [
+      "brian d foy <bdfoy@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.55_02, CPAN::Meta::Converter version 2.120921",
+   "keywords" : [
+      "testing",
+      "STDOUT",
+      "STDERR"
+   ],
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-Output",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "File::Temp" : "0.17",
+            "Sub::Exporter" : "0",
+            "Test::More" : "0",
+            "Test::Tester" : "0.107",
+            "perl" : "5.006"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "repository" : {
+         "url" : "git://github.com/briandfoy/test-output.git"
+      }
+   },
+   "version" : "1.01"
+}

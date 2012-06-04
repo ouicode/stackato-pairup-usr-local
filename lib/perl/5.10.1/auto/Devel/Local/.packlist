@@ -1,0 +1,5 @@
+/usr/local/bin/devel-local.sh
+/usr/local/man/man1/devel-local.sh.1p
+/usr/local/man/man3/Devel::Local.3pm
+/usr/local/share/perl/5.10.1/Devel/Local.pm
+/usr/local/share/perl/5.10.1/Devel/Local.pod

@@ -1,0 +1,1 @@
+{"provides":{"Test::Warn":{"version":"0.24","file":"Test/Warn.pm"},"Test::Warn::Categorization":{"file":"Test/Warn.pm"},"Test::Warn::DAG_Node_Tree":{"file":"Test/Warn.pm"}},"target":"Test::Warn","version":"0.24","name":"Test::Warn","dist":"Test-Warn-0.24","pathname":"C/CH/CHORNY/Test-Warn-0.24.tar.gz"}

@@ -1,0 +1,4 @@
+/usr/local/bin/cpanm
+/usr/local/man/man1/cpanm.1p
+/usr/local/man/man3/App::cpanminus.3pm
+/usr/local/share/perl/5.10.1/App/cpanminus.pm

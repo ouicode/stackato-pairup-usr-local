@@ -1,0 +1,1 @@
+{"provides":{"Net::Server::Proto::Coro::FH":{"file":"Net/Server/Proto/Coro.pm"},"Net::Server::Coro":{"version":"1.2","file":"Net/Server/Coro.pm"},"Net::Server::Proto::Coro":{"file":"Net/Server/Proto/Coro.pm"}},"target":"Net::Server::Coro","version":"1.2","name":"Net::Server::Coro","dist":"Net-Server-Coro-1.2","pathname":"A/AL/ALEXMV/Net-Server-Coro-1.2.tar.gz"}

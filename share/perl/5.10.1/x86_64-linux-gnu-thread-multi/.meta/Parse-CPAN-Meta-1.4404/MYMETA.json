@@ -1,0 +1,44 @@
+{
+   "abstract" : "Parse META.yml and META.json CPAN metadata files",
+   "author" : [
+      "Adam Kennedy <adamk@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.120630",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Parse-CPAN-Meta",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "CPAN::Meta::YAML" : "0.008",
+            "File::Spec" : "0.80",
+            "JSON::PP" : "2.27200",
+            "Test::More" : "0.47"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "1.4404"
+}

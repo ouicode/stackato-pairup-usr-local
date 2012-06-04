@@ -1,0 +1,13 @@
+/usr/local/man/man3/Net::FastCGI.3pm
+/usr/local/man/man3/Net::FastCGI::Constant.3pm
+/usr/local/man/man3/Net::FastCGI::IO.3pm
+/usr/local/man/man3/Net::FastCGI::Protocol.3pm
+/usr/local/share/perl/5.10.1/Net/FastCGI.pm
+/usr/local/share/perl/5.10.1/Net/FastCGI.pod
+/usr/local/share/perl/5.10.1/Net/FastCGI/Constant.pm
+/usr/local/share/perl/5.10.1/Net/FastCGI/Constant.pod
+/usr/local/share/perl/5.10.1/Net/FastCGI/IO.pm
+/usr/local/share/perl/5.10.1/Net/FastCGI/IO.pod
+/usr/local/share/perl/5.10.1/Net/FastCGI/Protocol.pm
+/usr/local/share/perl/5.10.1/Net/FastCGI/Protocol.pod
+/usr/local/share/perl/5.10.1/Net/FastCGI/Protocol/PP.pm

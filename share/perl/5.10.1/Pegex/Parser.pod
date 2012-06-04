@@ -1,0 +1,43 @@
+=encoding utf8
+
+=head1 NAME
+
+Pegex::Parser - Pegex Parser Runtime
+
+=head1 SYNOPSIS
+
+    use Pegex::Parser;
+
+=head1 DESCRIPTION
+
+This is the Pegex module that provides the parsing engine runtime. It has a
+C<parse()> method that applies a grammar to a text that supposedly matches
+that grammar. It also calls the callback methods of its Receiver object.
+
+Generally this module is not used directly, but is called upon via a
+L<Pegex::Grammar> object.
+
+=head1 SEE ALSO
+
+=over
+
+=item *
+
+L<Pegex::Grammar>
+
+=back
+
+=head1 AUTHOR
+
+Ingy döt Net <ingy@cpan.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright (c) 2011. Ingy döt Net.
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
+See http://www.perl.com/perl/misc/Artistic.html
+
+=cut

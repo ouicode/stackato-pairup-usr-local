@@ -1,0 +1,4 @@
+/usr/local/bin/start_server
+/usr/local/man/man1/start_server.1p
+/usr/local/man/man3/Server::Starter.3pm
+/usr/local/share/perl/5.10.1/Server/Starter.pm

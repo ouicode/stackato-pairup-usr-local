@@ -1,0 +1,54 @@
+{
+   "abstract" : "An abstract Mouse role for setting attributes from a configfile",
+   "author" : [
+      "NAKAGAWA Masaki <masaki@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MouseX-ConfigFromFile",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Mouse" : "0.39",
+            "MouseX::Types::Path::Class" : "0.06",
+            "Test::More" : "0.94",
+            "Test::UseAllModules" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/masaki/mousex-configfromfile.git"
+      }
+   },
+   "version" : "0.05"
+}

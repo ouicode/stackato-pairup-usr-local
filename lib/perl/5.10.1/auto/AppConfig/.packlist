@@ -1,0 +1,14 @@
+/usr/local/man/man3/AppConfig.3pm
+/usr/local/man/man3/AppConfig::Args.3pm
+/usr/local/man/man3/AppConfig::CGI.3pm
+/usr/local/man/man3/AppConfig::File.3pm
+/usr/local/man/man3/AppConfig::Getopt.3pm
+/usr/local/man/man3/AppConfig::State.3pm
+/usr/local/man/man3/AppConfig::Sys.3pm
+/usr/local/share/perl/5.10.1/AppConfig.pm
+/usr/local/share/perl/5.10.1/AppConfig/Args.pm
+/usr/local/share/perl/5.10.1/AppConfig/CGI.pm
+/usr/local/share/perl/5.10.1/AppConfig/File.pm
+/usr/local/share/perl/5.10.1/AppConfig/Getopt.pm
+/usr/local/share/perl/5.10.1/AppConfig/State.pm
+/usr/local/share/perl/5.10.1/AppConfig/Sys.pm

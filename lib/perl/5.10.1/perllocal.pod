@@ -1,0 +1,968 @@
+=head2 Fri May 18 15:30:17 2012: C<Module> L<JSON::PP|JSON::PP>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.27200>
+
+=item *
+
+C<EXE_FILES: bin/json_pp>
+
+=back
+
+=head2 Fri May 18 15:30:21 2012: C<Module> L<CPAN::Meta::YAML|CPAN::Meta::YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:30:31 2012: C<Module> L<Module::Metadata|Module::Metadata>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:30:35 2012: C<Module> L<CPAN::Meta::Requirements|CPAN::Meta::Requirements>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.122>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:30:40 2012: C<Module> L<CPAN::Meta|CPAN::Meta>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.120921>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:30:42 2012: C<Module> L<Perl::OSType|Perl::OSType>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:33:23 2012: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.5013>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Fri May 18 15:33:26 2012: C<Module> L<Devel::Local|Devel::Local>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: bin/devel-local.sh>
+
+=back
+
+=head2 Fri May 18 15:35:20 2012: C<Module> L<Curses|Curses>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:35:23 2012: C<Module> L<Term::ReadKey|Term::ReadKey>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:35:27 2012: C<Module> L<Curses::UI|Curses::UI>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9609>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:46:20 2012: C<Module> L<IO::All|IO::All>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:46:23 2012: C<Module> L<Pegex|Pegex>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:46:28 2012: C<Module> L<Spiffy|Spiffy>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:46:37 2012: C<Module> L<Test::Base|Test::Base>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:47:28 2012: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:47:33 2012: C<Module> L<AppConfig|AppConfig>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.66>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:48:03 2012: C<Module> L<Template|Template>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.24>
+
+=item *
+
+C<EXE_FILES: bin/tpage bin/ttree>
+
+=back
+
+=head2 Fri May 18 15:48:18 2012: C<Module> L<YAML::LibYAML|YAML::LibYAML>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:48:21 2012: C<Module> L<Template::Toolkit::Simple|Template::Toolkit::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: bin/tt-render>
+
+=back
+
+=head2 Fri May 18 15:48:53 2012: C<Module> L<Mouse|Mouse>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.97>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:48:54 2012: C<Module> L<Stardoc|Stardoc>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:48:58 2012: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:48:59 2012: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:05 2012: C<Module> L<Params::Util|Params::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:07 2012: C<Module> L<Sub::Install|Sub::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.926>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:17 2012: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.107>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:20 2012: C<Module> L<Sub::Exporter|Sub::Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.982>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:21 2012: C<Module> L<String::RewritePrefix|String::RewritePrefix>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:23 2012: C<Module> L<IO::TieCombine|IO::TieCombine>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:27 2012: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:31 2012: C<Module> L<Module::Implementation|Module::Implementation>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:39 2012: C<Module> L<Getopt::Long::Descriptive|Getopt::Long::Descriptive>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.091>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:49 2012: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:50 2012: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:53 2012: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:57 2012: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:49:59 2012: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Fri May 18 15:50:02 2012: C<Module> L<Class::Load|Class::Load>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:50:05 2012: C<Module> L<App::Cmd|App::Cmd>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.318>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:50:48 2012: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:50:49 2012: C<Module> L<File::Share|File::Share>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri May 18 15:52:00 2012: C<Module> L<Test::Common|Test::Common>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: bin/test-common>
+
+=back
+
+=head2 Wed May 30 20:52:12 2012: C<Module> L<Term::ExtendedColor|Term::ExtendedColor>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.224>
+
+=item *
+
+C<EXE_FILES: bin/colored_dmesg bin/color_matrix bin/show_all_colors bin/uncolor>
+
+=back
+

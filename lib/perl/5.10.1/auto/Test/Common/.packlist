@@ -1,0 +1,10 @@
+/usr/local/bin/test-common
+/usr/local/man/man1/test-common.1p
+/usr/local/man/man3/Module::Install::TestCommon.3pm
+/usr/local/man/man3/Test::Common.3pm
+/usr/local/share/perl/5.10.1/Module/Install/TestCommon.pm
+/usr/local/share/perl/5.10.1/Module/Install/TestCommon.pod
+/usr/local/share/perl/5.10.1/Test/Common.pm
+/usr/local/share/perl/5.10.1/Test/Common.pod
+/usr/local/share/perl/5.10.1/auto/share/dist/Test-Common/common.yaml
+/usr/local/share/perl/5.10.1/auto/share/dist/Test-Common/use_ok.t

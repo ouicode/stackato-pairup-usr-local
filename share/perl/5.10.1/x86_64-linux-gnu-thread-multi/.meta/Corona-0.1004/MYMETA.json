@@ -1,0 +1,54 @@
+{
+   "abstract" : "Coro based PSGI web server",
+   "author" : [
+      "Tatsuhiko Miyagawa"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.95, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Corona",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Coro" : "0",
+            "Net::Server::Coro" : "0.5",
+            "Plack" : "0.99",
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/miyagawa/Corona.git"
+      }
+   },
+   "version" : "0.1004"
+}

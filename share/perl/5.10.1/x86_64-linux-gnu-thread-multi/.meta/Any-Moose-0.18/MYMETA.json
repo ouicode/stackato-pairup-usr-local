@@ -1,0 +1,38 @@
+{
+   "abstract" : "use Moose or Mouse modules",
+   "author" : [
+      "Shawn M Moore <sartak@gmail.com>",
+      "Florian Ragwitz <rafl@debian.org>",
+      "Stevan Little <stevan@iinteractive.com>",
+      "Tokuhiro Matsuno <tokuhirom@gmail.com>",
+      "Goro Fuji <gfuji@cpan.org>",
+      "Ricardo Signes <rjbs@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112150, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Any-Moose",
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Mouse" : "0.40"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.18"
+}

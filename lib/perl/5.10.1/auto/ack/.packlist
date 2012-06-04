@@ -1,0 +1,7 @@
+/usr/local/bin/ack
+/usr/local/man/man1/ack.1p
+/usr/local/share/perl/5.10.1/App/Ack.pm
+/usr/local/share/perl/5.10.1/App/Ack/Plugin.pm
+/usr/local/share/perl/5.10.1/App/Ack/Plugin/Basic.pm
+/usr/local/share/perl/5.10.1/App/Ack/Repository.pm
+/usr/local/share/perl/5.10.1/App/Ack/Resource.pm

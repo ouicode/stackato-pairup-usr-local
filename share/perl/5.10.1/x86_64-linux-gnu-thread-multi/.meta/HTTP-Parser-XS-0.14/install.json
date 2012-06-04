@@ -1,0 +1,1 @@
+{"provides":{"HTTP::Parser::XS::PP":{"file":"HTTP/Parser/XS/PP.pm"},"HTTP::Parser::XS":{"version":"0.14","file":"HTTP/Parser/XS.pm"}},"target":"HTTP::Parser::XS","version":"0.14","name":"HTTP::Parser::XS","dist":"HTTP-Parser-XS-0.14","pathname":"K/KA/KAZUHO/HTTP-Parser-XS-0.14.tar.gz"}

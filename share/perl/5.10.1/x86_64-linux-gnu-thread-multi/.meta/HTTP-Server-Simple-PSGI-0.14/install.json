@@ -1,0 +1,1 @@
+{"provides":{"HTTP::Server::Simple::PSGI":{"version":"0.14","file":"HTTP/Server/Simple/PSGI.pm"},"HTTP::Server::Simple::PSGI::Writer":{"file":"HTTP/Server/Simple/PSGI.pm"}},"target":"HTTP::Server::Simple::PSGI","version":"0.14","name":"HTTP::Server::Simple::PSGI","dist":"HTTP-Server-Simple-PSGI-0.14","pathname":"M/MI/MIYAGAWA/HTTP-Server-Simple-PSGI-0.14.tar.gz"}
