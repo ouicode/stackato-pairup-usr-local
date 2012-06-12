@@ -966,3 +966,135 @@ C<EXE_FILES: bin/colored_dmesg bin/color_matrix bin/show_all_colors bin/uncolor>
 
 =back
 
+=head2 Tue Jun 12 13:26:18 2012: C<Module> L<Term::Size|Term::Size>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.207>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Jun 12 13:26:24 2012: C<Module> L<IPC::Run3|IPC::Run3>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.045>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Jun 12 13:26:26 2012: C<Module> L<Test::Script|Test::Script>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Jun 12 13:26:28 2012: C<Module> L<File::Which|File::Which>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.09>
+
+=item *
+
+C<EXE_FILES: script/pwhich>
+
+=back
+
+=head2 Tue Jun 12 13:26:30 2012: C<Module> L<File::HomeDir|File::HomeDir>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Jun 12 13:26:31 2012: C<Module> L<Vroom|Vroom>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.26>
+
+=item *
+
+C<EXE_FILES: bin/vroom>
+
+=back
+

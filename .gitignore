@@ -2,6 +2,14 @@
 ./share/man/man1/jsontool-json.1
 ./share/man/man1/node.1
 ./man
+./bin/json
+./bin/json2
+./bin/json3
+./bin/node
+./bin/node-waf
+./bin/npm
+./share/man/man1/node.1
+./share/man/man1/jsontool-json.1
 ./lib/node_modules/npm/AUTHORS
 ./lib/node_modules/npm/html/npm-large.png
 ./lib/node_modules/npm/html/docfoot.html

@@ -1,0 +1,4 @@
+/usr/local/bin/pwhich
+/usr/local/man/man1/pwhich.1p
+/usr/local/man/man3/File::Which.3pm
+/usr/local/share/perl/5.10.1/File/Which.pm

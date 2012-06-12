@@ -1,0 +1,59 @@
+{
+   "abstract" : "Find your home and other directories on any platform",
+   "author" : [
+      "Adam Kennedy <adamk@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.04, CPAN::Meta::Converter version 2.112621",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "File-HomeDir",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36",
+            "Test::More" : "0.47"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : 0,
+            "Cwd" : "3.12",
+            "File::Path" : "2.01",
+            "File::Spec" : "3.12",
+            "File::Temp" : "0.19",
+            "File::Which" : "0.05",
+            "perl" : "5.00503"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://svn.ali.as/cpan/trunk/File-HomeDir"
+      },
+      "x_ChangeLog" : "http://fisheye2.atlassian.com/changelog/cpan/trunk/File-HomeDir"
+   },
+   "version" : "0.99",
+   "x_module_name" : "File::HomeDir"
+}
